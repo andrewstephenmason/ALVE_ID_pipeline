@@ -1,2 +1,2 @@
-# ALVE_ID_pipeline
-Identification of ALVE insertions in short read NGS data
+# obsERVer
+Identification of ERV insertions in short read NGS data - originally built for ALVE integrations
